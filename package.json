@@ -1,0 +1,31 @@
+{
+  "name": "pigalle-logging",
+  "version": "0.0.1",
+  "description": "Logging features for the Pigalle framework",
+  "main": "dist/pigalle-logging-alpha.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "test": "npm test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/pigalle-io/pigalle-logging.git"
+  },
+  "keywords": [
+    "pigalle",
+    "logging"
+  ],
+  "author": "pigalle.io",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/pigalle-io/pigalle-logging/issues"
+  },
+  "homepage": "https://github.com/pigalle-io/pigalle-logging#readme",
+  "dependencies": {
+    "babel-cli": "^6.26.0",
+    "babel-preset-env": "^1.6.1",
+    "bunyan": "^1.8.12"
+  }
+}

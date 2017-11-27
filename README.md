@@ -1,2 +1,3 @@
 # pigalle-logging
-Standard logging for the Pigalle framework.
+
+Logging features for the Pigalle framework.
